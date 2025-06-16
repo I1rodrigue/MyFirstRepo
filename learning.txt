@@ -1,0 +1,1 @@
+ "This course has taught me the basics of Git, GitHub, and how to collaborate effectively on projects. I am now confident in using repositories, branches, and pull requests to manage my code." > learning.txt
